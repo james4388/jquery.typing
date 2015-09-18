@@ -19,3 +19,15 @@ $('h1 .typing').typing({
     }
 });
 ```
+Options:
+
+ - **strings**: an array of strings to be type. Default: my intro
+ - **typeDelay**: typing speed (delay between key stroke). Default: 20ms
+ - **deleteDelay**: a delay before delete. Default: 1000ms
+ - **rewind**: set to true to start over again. (Not yet implement). Default: false
+ - **startDelay**: Delay from the beginning. Default: 1000ms
+ - **caretDelay**: Caret (typing cursor) blinking delay. Default 500ms
+ - **onComplete**: Call back when complete.
+
+
+
