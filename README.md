@@ -1,7 +1,7 @@
 # jquery.typing
 A typing effect plugin for jQuery
 
-Demo: 
+Demo: http://nhutrinh.com
 
 Ussage:
 
